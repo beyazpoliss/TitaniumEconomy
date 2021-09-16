@@ -1,0 +1,6 @@
+name: TitaniumEconomy
+version: ${project.version}
+main: tr.beyazpolis.titanium.economy.TitaniumEconomy
+api-version: 1.16
+authors: [ BeyazPolis ]
+description: The best Bank and Economy plugin.
